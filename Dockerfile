@@ -1,4 +1,4 @@
- 1. Base image
+# 1. Base image
 FROM nginx:alpine
 
 # 2. Set working directory
